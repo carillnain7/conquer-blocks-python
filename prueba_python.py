@@ -36,3 +36,6 @@ while clientes_actuales < 10:
     print("Clientes conseguidos:", clientes_actuales)
 
 print("¡Objetivo de 10 clientes alcanzado!")
+print("Estoy aprendiendo Git y GitHub con Conquer Blocks")
+
+
