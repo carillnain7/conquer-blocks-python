@@ -39,4 +39,6 @@ print("¡Objetivo de 10 clientes alcanzado!")
 print("Estoy aprendiendo Git y GitHub con Conquer Blocks")
 
 print("Estoy trabajando en la rama principal main")
+print("Estoy trabajando en la rama conflicto-practica")
+
 
